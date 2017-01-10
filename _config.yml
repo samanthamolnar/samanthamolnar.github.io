@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Samantha Molnar
-email: email
+email: Samantha.Molnar@colorado.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am currently pursuing my PhD in Computer Science at the University of Colorado Boulder. I am interested in the ways we quantify uncertainty in dynamical systems in particular I studypower systems.  
+  I am currently pursuing my PhD in Computer Science at the University of Colorado Boulder.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  samanthamolnar
 
 # Build settings
 markdown: kramdown
