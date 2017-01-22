@@ -17,10 +17,9 @@ title: Samantha Molnar
 email: Samantha.Molnar@colorado.edu
 description: > # this means to ignore newlines until "baseurl:"
   I am currently pursuing my PhD in Computer Science at the University of Colorado Boulder.   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /samanthamolnar.github.io.git # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  samanthamolnar
-
 # Build settings
 markdown: kramdown
 theme: minima
