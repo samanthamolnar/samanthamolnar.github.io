@@ -3,5 +3,4 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-[resume](/Users/sammolnar/Documents/Resume/resume.pdf)
-This is empty.
+[Resume](https://github.com/samanthamolnar/samanthamolnar.github.io/blob/master/Images/resume.pdf)
