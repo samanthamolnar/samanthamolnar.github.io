@@ -61,8 +61,6 @@ A couple of months ago my colleague [Allie Morgan](http://allisonmorgan.github.i
 
 Here is an example plot when you query "Influenza":
 
-[testing](http://samanthamolnar.me/)
-
 
 <figure>
         <img src="/Images/influenza_hourly.trend.png" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
