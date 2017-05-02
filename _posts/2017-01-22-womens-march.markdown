@@ -11,5 +11,5 @@ a life time.
 
 <figure>
         <img src="/Images/womensmarch.jpg" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
-        <figcaption>""</figcaption>
+        <figcaption>A bunch of us at the march!!</figcaption>
 </figure>

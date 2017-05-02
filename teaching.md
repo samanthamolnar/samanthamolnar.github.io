@@ -11,10 +11,10 @@ It introduces concepts used in algorithms, and teaches students how and when to 
     </ul>
 <li>Discrete Structures (CSCI 2824) (TA)</li>
     <ul>
-        <li>I was a teaching assistant for this course under [Mike Eisenberg](http://www.cs.colorado.edu/~duck/)  This course covers concepts in set theory, number theory, mathematical induction, . </li>
+        <li>I was a teaching assistant for this course under Mike Eisenberg.  This course covers concepts in set theory, number theory, and mathematical induction. </li>
     </ul>
 <li>Introduction to Computer Science (CSCI 1310) (TA)</li>
     <ul>
-        <li> Introduces </li>
+        <li> Introduces students to basic programming concepts.</li>
     </ul>
 </ol>
