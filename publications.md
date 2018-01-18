@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 [Computational Topology Techniques for Characterizing Time-Series Data]
-(https://link.springer.com/chapter/10.1007/978-3-319-68765-0_24)<br>
+(http://link.springer.com/chapter/10.1007/978-3-319-68765-0_24)<br>
 Nicole Sanderson, Elliott Shugerman, Samantha Molnar, James D. Meiss, Elizabeth Bradley<br>
 <b>Advances in Intelligent Data Analysis XVI.</b>, 2017, 10584, 284-296.
 
