@@ -10,6 +10,6 @@ of fun to use data from NREL and dabble with NASA data for the shadow.
 style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 During the eclipse, I wasn't fancy like most people and made my own pinhole camera out of a paper plate.
-<img src="/Images/me_eclipse.png" width="200" height="300" />
+<img src="/Images/me_eclipse.png"/>
 <img src = "/Images/eclipse_leaves.png" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
 <img src = "/Images/eclipse_paperplate.png" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
