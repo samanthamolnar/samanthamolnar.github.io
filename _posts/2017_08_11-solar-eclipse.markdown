@@ -2,7 +2,7 @@
 layout: post
 title:  "Solar Eclipse August 2017"
 date:   2017-08-11
-categories: work
+categories: personal
 ---
 Yesterday, I attended one of the largest protests in American history.  The Women's March took place not
 only in Washington, but in cities all over the country and all over the world.  It was the experience of
