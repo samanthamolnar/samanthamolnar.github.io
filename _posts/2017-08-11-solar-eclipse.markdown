@@ -10,6 +10,6 @@ of fun to work with data from NASA.
 style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 During the eclipse, I wasn't fancy like most people and made my own pinhole camera out of a paper plate.
-<img src="/Images/me_eclipse.png" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+<img src="/Images/me_eclipse.png"/>
 <img src = "/Images/eclipse_leaves.png" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
 <img src = "/Images/eclipse_paperplate.png" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
