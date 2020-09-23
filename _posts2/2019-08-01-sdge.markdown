@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SDGE Dashboard"
+date:   2019-08-01
+categories: portfolio
+---
+While working at NREL during the summer of 2019, I created a dashboard for San Diego Gas & Electric (SDGE) to help with data analytics of one of their distribution
+systems.
+

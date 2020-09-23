@@ -1,0 +1,14 @@
+---
+layout: post
+title: "heatmaps are bad"
+date: 2019-09-01
+categories: portfolio
+---
+A large part of my visualization work at NREL focuses on power system dynamics.  One extremely common, and I argue bad, way of visualizing the frequency of a power
+system is via a heatmap.  For example, see the animation below [blah].
+[Insert figure here].
+Where did the perturbation originate? 
+What system mode does this visualization display?
+Where was the largest frequency deviation?
+Where was the smallest frequency deviation?
+
